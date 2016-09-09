@@ -1,11 +1,15 @@
 # itsgoingtobeokay
 
-1. download zip. unzip it.
+mac osx chrome
 
-2. save somewhere safe...forever
+1. download https://github.com/tayvano/itsgoingtobeokay/raw/master/nckgahadagoaajjgafhacjanaoiihapd.zip.
 
-3. Go to `chrome://extensions` in the Chrome browser and enable "Developer mode" by the checkbox in the upper right.
+2. unzip it.
 
-4. Press "Load unpacked extension..." and choose where you saved it.
+3. save somewhere safe...forever
 
-5. 😃
+4. Go to `chrome://extensions` in the Chrome browser and enable "Developer mode" by the checkbox in the upper right.
+
+5. Press "Load unpacked extension..." and choose where you saved it.
+
+6. 😃
