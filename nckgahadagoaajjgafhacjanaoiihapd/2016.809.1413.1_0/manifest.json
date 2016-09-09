@@ -35,7 +35,6 @@
          "38": "images_4/presence/offline_38.png"
       }
    },
-   "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "2016.809.1413.1",
    "web_accessible_resources": [ "*" ]
 }
